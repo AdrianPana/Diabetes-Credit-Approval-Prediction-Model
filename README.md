@@ -1,1 +1,1 @@
-Check the pdf version
+Check the [pdf version](./README.pdf)
